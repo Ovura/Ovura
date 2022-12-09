@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Oloya Ovura
-- 👀 I’m interested in .Net, Java, Javascript 
-- 🌱 I’m currently learning C#, ASP.net, Javascript, DevOps 
+- 👋 Hi, I’m Arthur Ovura
+- 👀 I’m interested in .Net, Azure Devops, Serverless Computing 
+- 🌱 I’m currently learning C#, ASP.net, React, DevOps 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
