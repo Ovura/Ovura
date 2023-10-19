@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arthur Ovura
+- 👋 Hi, I’m Arthur
 - 👀 I’m interested in Fullstack development on both .Net and Java Platforms. 
 - 🌱 I’m currently trying to teach myself Delphi and Pascal programming
 - 💞️ I’m looking to collaborate on .Net projects
