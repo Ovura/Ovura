@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arthur Ovura
-- 👀 I’m interested in .Net, Azure Devops, Serverless Computing 
-- 🌱 I’m currently learning C#, ASP.net, React, DevOps 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fullstack development on both .Net and Java Platforms. 
+- 🌱 I’m currently trying to teach myself Delphi and Pascal programming
+- 💞️ I’m looking to collaborate on .Net projects
 - 📫 How to reach me 
 
 <!---
