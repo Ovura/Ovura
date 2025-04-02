@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Arthur
-- 👀 I’m interested in Fullstack development on both .Net and Java Platforms. 
-- 🌱 I’m currently trying to teach myself Python and Ruby on Rails.
-- 💞️ I’m looking to collaborate on .Net projects
-- 📫 How to reach me 
+Hi, I'm Arthur 👋
+
+💻 Full-Stack Developer with a passion for building scalable, high-performance applications.
+
+🔹 Experienced in designing, developing, and deploying software solutions across various technologies.
+
+⚡ Committed to writing clean, maintainable code and staying updated with industry best practices.
+
+🤝 Open to collaboration on innovative projects and knowledge sharing within the developer community.
+
+📬 Let's connect: [https://www.nollkvadrat.tech/contact]
 
 <!---
 Ovura/Ovura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
