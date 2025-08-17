@@ -8,7 +8,7 @@ Hi, I'm Arthur 👋
 
 🤝 Open to collaboration on innovative projects and knowledge sharing within the developer community.
 
-📬 Let's connect: [https://www.nollkvadrat.tech/contact]
+📬 Let's connect:
 
 <!---
 Ovura/Ovura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
